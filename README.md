@@ -1,6 +1,6 @@
 # 🛠️ Sistema Web para Ferretería
 
-Sistema web de gestión de inventario y ventas para una ferretería, desarrollado como proyecto final del curso **Base de Datos I** (UNI, 2025).
+Sistema web de gestión de inventario y ventas para una ferretería, desarrollado como proyecto final del curso **Base de Datos I** (Universidad Nacional de Ingeniería, 2025).
 
 Permite administrar productos, categorías y proveedores, y ofrece una experiencia de compra tipo e-commerce para los clientes registrados, con control de stock en tiempo real y reportes de ventas para el administrador.
 
